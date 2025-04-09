@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"  
+    analyst:
+      email: analyst@example.com
+      name: Data Analyst
+      password: "a051a593eb73bbfec9d9a9ff7b72954c0b8915a4cdb2c120b8760fac290624be"
+    viewer:
+      email: viewer@example.com
+      name: Data Viewer
+      password: "e6ce8e365ea7be47c346afe509d8f520cd1dfcd9479227e121615b4636c0e390"
+cookie:
+  expiry_days: 1
+  key: "random_signature_key_123!"  
+  name: "dashboard_auth"
